@@ -1,0 +1,56 @@
+*{
+    margin:2;
+    padding:2;
+}
+
+.dropdown{
+    width: fit-content;
+    margin-left:auto;
+    margin-right:auto;
+}
+.vellore-campus{
+    align-content: center;
+    font-size: 12;
+    font-weight: 100;
+}
+
+.reg{
+    color: green;
+}
+
+.fee{
+    color: green;
+}
+
+.status{
+    color: green;
+}
+
+.foot{
+    color: blue;
+}
+
+.data1 td{
+    color: red;
+}
+
+.maincontainer{    
+    margin: 0px;
+    float: right;
+    height: 100px;
+    padding: 0px;
+}
+
+.sidecontainer{
+    width: 5px;
+}
+
+
+    
+  
+
+
+.sideimage{
+    height: 5px;
+    width: 5px;
+}
